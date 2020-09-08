@@ -5,6 +5,8 @@ Line added by Kranthi
 Manjunath added a new line
 
 Amit Added a commit.
+This is the second line
+Debeshee added a line
 This is the second line.
 Third line by Pavan Sriram
 Line 4
@@ -15,6 +17,4 @@ And this is the second line
 Srujan added a commit.
 Hello
 
-Amit Added a commit.
-This is the second line.
 Hello this is the thirs line..
