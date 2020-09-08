@@ -1,4 +1,6 @@
 Hi, this is my first commit file
+And this is the second line
+
 Srujan added a commit.
 Hello
 
