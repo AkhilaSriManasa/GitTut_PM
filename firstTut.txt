@@ -1,4 +1,7 @@
 Hi, this is my first commit file
+
+Line added by Kranthi
+
 Manjunath added a new line
 
 Amit Added a commit.
