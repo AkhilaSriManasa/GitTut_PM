@@ -1,4 +1,20 @@
 Hi, this is my first commit file
+
+Line added by Kranthi
+
+Manjunath added a new line
+
 Amit Added a commit.
 This is the second line.
 Third line by Pavan Sriram
+Line 4
+
+4th
+And this is the second line
+
+Srujan added a commit.
+Hello
+
+Amit Added a commit.
+This is the second line.
+Hello this is the thirs line..
