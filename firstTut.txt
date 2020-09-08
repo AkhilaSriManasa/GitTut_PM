@@ -1,2 +1,2 @@
 Hi, this is my first commit file
-Hi, this is my second commit file
+Manjunath added a new line
