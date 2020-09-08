@@ -1,1 +1,2 @@
 Hi, this is my first commit file
+This is the second line.
