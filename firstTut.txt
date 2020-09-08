@@ -1,2 +1,3 @@
 Hi, this is my first commit file
+Amit Added a commit.
 This is the second line.
