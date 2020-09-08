@@ -6,6 +6,8 @@ Manjunath added a new line
 
 Amit Added a commit.
 This is the second line.
+Line 4
+
 4th
 And this is the second line
 
